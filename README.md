@@ -1,2 +1,1 @@
-# Zach-Boroughs
-BME Data Science
+https://github.com/bcaffo/ds4bme_intro/blob/master/syllabus.md
